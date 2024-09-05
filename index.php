@@ -1,3 +1,8 @@
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+
+
+
 <?php ob_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
